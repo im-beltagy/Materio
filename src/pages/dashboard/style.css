@@ -1,0 +1,12 @@
+.MuiCardContent-root.MuiCardContent-root,
+.MuiCardHeader-root.MuiCardHeader-root {
+  padding: 1.25rem;
+}
+.MuiCardContent-root .MuiCardHeader-root {
+  padding: 0;
+}
+
+/* Make All Row Items The Same Height */
+.MuiGrid-item > * {
+  height: 100%;
+}
